@@ -10,7 +10,7 @@
   
 - 🌱 I’m currently learning **Vue.js, Three.js, Transformers and OpenAI**
   
-- 👯 I’m looking to collaborate on **Agee & Gender Prediction System**
+- 👯 I’m looking to collaborate on **Generative Adversial Networks (GAN)**
   
 - 🤝 I’m looking for help with **E-Commerce Website & Application (Android)**
   
